@@ -1,6 +1,6 @@
 print('Hello World')
 a = int(input())
 b = int(input())
-c = a + b 
+c = a + b
 d = a * b
-print(c + d)
+print(c + d + (c * d))
